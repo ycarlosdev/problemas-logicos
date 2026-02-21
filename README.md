@@ -5,7 +5,6 @@ Creé este repositorio para subir distintos ejercicios lógicos resueltos con Py
 Aquí encontrarás:
 - El enunciado del problema
 - Mi solución
-- Una breve explicación de cómo lo resolví
 
 La idea es practicar, mejorar y compartir el proceso.
 
